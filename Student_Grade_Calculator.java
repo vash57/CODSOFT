@@ -7,7 +7,7 @@
 * where we take a no of each subject between (0-100) and after 
 * we calculate the average and Declare thier Grade.......
 * Author: DEV KUMAR CHAUBEY
-* Date : 295 Aug 2025
+* Date : 29 Aug 2025
 */
 import java.util.Scanner;
 public class Student_Grade_Calculator {
@@ -63,3 +63,4 @@ public class Student_Grade_Calculator {
         sc.close();
     }
 }
+
