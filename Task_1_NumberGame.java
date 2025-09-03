@@ -59,4 +59,5 @@ public class NumberGame {
         sc.close();
         System.out.println("Game Over Thank Youuuuuuuuuu Guyssss.....");
     }
+
 }
