@@ -1,3 +1,17 @@
+/*
+* PROJECT: CURRENCY CONVERTER
+* Internship:CODSOFT
+* Task: 4
+* Description: 
+
+* Currency Converter: Converts money between currencies.
+User selects base/target currency, 
+enters amount, system fetches rate, 
+converts, and shows result with proper validation.
+
+* Author: DEV KUMAR CHAUBEY
+* Date : 10 Sep 2025
+*/
 import java.util.Scanner;
 
 public class CurrencyConverter{
@@ -41,3 +55,4 @@ public class CurrencyConverter{
         sc.close();
     }
 }
+
