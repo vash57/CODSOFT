@@ -10,7 +10,7 @@
 * Date : 29 Aug 2025
 */
 import java.util.Scanner;
-public class Student_Grade_Calculator {
+public class Task_2_Student_Grade_Calculator {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
 
@@ -63,5 +63,6 @@ public class Student_Grade_Calculator {
         sc.close();
     }
 }
+
 
 
