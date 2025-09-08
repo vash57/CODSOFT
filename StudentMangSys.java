@@ -1,3 +1,16 @@
+/*
+* PROJECT: STUDENT MANAGEMENT SYSTEM
+* Internship:CODSOFT
+* Task: 5
+* Description: 
+
+*Manages student records with add, remove, 
+search, and display features. Data is stored safely,
+input is validated, and access is via console or GUI.
+
+* Author: DEV KUMAR CHAUBEY
+* Date : 11 Sep 2025
+*/
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -129,3 +142,4 @@ public class StudentMangSys {
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
