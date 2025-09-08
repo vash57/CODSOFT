@@ -1,3 +1,18 @@
+/*
+* PROJECT: ATM INTERFACE
+* Internship:CODSOFT
+* Task: 3
+* Description: 
+
+ This project simulates an ATM machine. 
+It allows users to withdraw money, deposit money, and check balance.
+The ATM class connects with a BankAccount class to store account details.
+Input validation ensures users cannot withdraw more than their balance.
+Messages are displayed for successful or failed transactions.* 
+
+Author: DEV KUMAR CHAUBEY
+* Date : 9 Sep 2025
+*/
 import java.util.Scanner;
 
 class BankAccount {
@@ -82,3 +97,4 @@ public class ATMInterface {
         atm.showMenu();
     }
 }
+
